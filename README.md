@@ -72,4 +72,5 @@ C:\Users\[YourName]\.nexus_data.json
 ---
 
 *NEXUS v3.0 — Python 3.8+ with tkinter*
-IF NEED ANY HELP TEXT ME ON TIKTOK @kute_00
+
+IF NEED ANY HELP TEXT ME ON TIKTOK @kute_00!!!!!!!!!!!!!
